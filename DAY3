@@ -8,4 +8,7 @@ Facebook Research blog
 Apple machine learning journal
 機器之心
 雷鋒網
-
+--------------------------------------------------------------------------------
+參考 Introducing the Google Universal Image Embedding Challenge
+在實例級識別(ILR)中目的是希望在圖片特徵辨識上，能給出更加精確的標籤，能夠描述這些更精細的特徵。並拓展至藝術品或是地標,logo等等真實世界的事物。
+Google 透過 DELG模型深度局部與全局特徵）來針對全局與局部特徵做處理，
